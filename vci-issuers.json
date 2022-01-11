@@ -1,6 +1,18 @@
 {
   "participating_issuers": [
     {
+      "iss": "https://connectathon.vci.org",
+      "name": "MITRE Connectathon"
+    },
+    {
+      "iss": "https://fhir-open.cerner.com/r4/ec2458f2-1e24-41c8-b71b-0e701af7583d",
+      "name": "Cerner R4 - Insecure Access Connectathon"
+    },
+    {
+      "iss": "https://spec.smarthealth.cards/examples/issuer",
+      "name": "SMART Health Cards spec example issuer"
+    },
+    {
       "iss": "https://myvaccinerecord.cdph.ca.gov/creds",
       "name": "State of California"
     },
